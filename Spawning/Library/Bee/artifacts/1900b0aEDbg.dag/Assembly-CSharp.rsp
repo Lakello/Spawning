@@ -357,8 +357,9 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Assets/Resources/Scripts/Spawner.cs"
-"Assets/Resources/Scripts/SpawnPoint.cs"
+"Assets/Source/Scripts/Enemy.cs"
+"Assets/Source/Scripts/Spawner.cs"
+"Assets/Source/Scripts/SpawnPoint.cs"
 -langversion:9.0
 
 /deterministic
